@@ -6,6 +6,9 @@ vue写的一个简单博客项目，支持用户登录；markdown编辑；用户
 // 下载项目
 git clone  https://github.com/wangkang1/bolg
 
+// 下载依赖包
+npm install
+
 // 打开项目在本地启动
 npm run dev
 
